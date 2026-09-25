@@ -1,7 +1,7 @@
 #  NexKart – E-commerce Analytics  
 
 ##  Introduction  
-NeoKart is a **fictional e-commerce company** that operates an online shopping platform.  
+NexKart is a **fictional e-commerce company** that operates an online shopping platform.  
 The aim of this project is to act as an **E-commerce Data Analyst**, helping key stakeholders (CEO, Product Manager, Marketing Team, etc.) understand business health and provide **data-driven insights** for growth.  
 
 ---
