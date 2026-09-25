@@ -1,4 +1,4 @@
-#  NeoKart – E-commerce Analytics  
+#  NexKart – E-commerce Analytics  
 
 ##  Introduction  
 NeoKart is a **fictional e-commerce company** that operates an online shopping platform.  
